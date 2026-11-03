@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there! I'm Treesa Joseph 👋
 
-<!--
-**treesaJoseph123/treesaJoseph123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Biomedical Engineering Student | Aspiring Engineer
 
-Here are some ideas to get you started:
+I'm passionate about exploring the intersection of electronics, software, and biomedical technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 Exploring Embedded Systems & Microcontrollers
+- 💻 Learning Python, SQL and Web Development
+- 🧠 Interested in Biomedical Innovation and Engineering
+- 🌱 Currently improving my programming and problem-solving skills
+
+### 🛠️ Technologies & Tools
+
+**Programming:** Python | C | SQL
+
+**Web Development:** HTML | CSS | JavaScript
+
+**Hardware:** ESP32 | Arduino | Sensors | Embedded Systems
+
+**Tools:** Git | GitHub | VS Code | MATLAB | Arduino IDE
+
+### 📌 Goals
+- Build practical hardware and software projects
+- Improve programming and problem-solving skills
+- Explore innovative engineering solutions
+
+### Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/treesa-joseph-5a9a54292?utm_source=share_via&utm_content=profile&utm_medium=member_android)
